@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/DeepLearning/YOLO/Data/train/images
+val: /content/drive/MyDrive/DeepLearning/YOLO/Data/test/images
+nc: 2
+names: [ 'Butterfly', 'Eagle']
