@@ -37,5 +37,5 @@ if __name__ == '__main__':
     #dirs = os.path.dirname()
     pa = Path("yolov5/runs/train/yolov5s_results/weights/best.pt")
     # print("soem", os.getcwd())
-    #model = torch.load(pa)
+    model = torch.load(pa)
     app.run()
